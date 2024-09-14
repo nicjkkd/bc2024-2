@@ -1,1 +1,2 @@
 http://backend.course#nicjkkd
+http://backend.course?name=“Лукʼянов Микола”&github_name=nicjkkd&group=“ФЕІ-25с”&subgroup="Підгрупа 1"
